@@ -8,6 +8,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Barbanet_NigeriaRegions',
+    'Condelab_NigeriaRegions',
     __DIR__
 );
