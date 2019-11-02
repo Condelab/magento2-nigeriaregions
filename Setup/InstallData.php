@@ -6,7 +6,7 @@
  * @author     Damián Culotta (http://www.damianculotta.com.ar/)
  */
 
-namespace Barbanet\NigeriaRegions\Setup;
+namespace Condelab\NigeriaRegions\Setup;
 
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
